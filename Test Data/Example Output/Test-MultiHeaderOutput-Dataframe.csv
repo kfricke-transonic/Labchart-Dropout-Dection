@@ -1,0 +1,4 @@
+Channel Name,Total Elements,Total Dropout Elements,Record Time [Sec],Dropout Time [Sec],% Dropout,Sample Rate [Sec],Start Date,End Date
+Channel 18,94,10,1.175,0.125,10.638297872340425,0.0125,1/14/2020,1/14/2020
+Channel 19,94,94,1.175,1.175,100.0,0.0125,1/14/2020,1/14/2020
+Channel 20,94,38,1.175,0.47500000000000003,40.42553191489361,0.0125,1/14/2020,1/14/2020

@@ -1,0 +1,11 @@
+Process started at: 16:01:08
+Number of Channels Calculated: 3
+Channel with highest dropout %: Channel 19 at 65.12%
+Channel with longest dropout time: Channel 19 at 110744.09 seconds or 30.76hr or 1.28 Days
+Channel with lowest dropout %: Channel 20 at 1.05%
+Channel with shortest dropout time: Channel 20 at 1778.48 seconds or 0.49hr or 0.02 Days
+Final Dataframe is located in : .\MultiFileTest\Outputs\Outputs\Multi-Process-Completed-Output-Dataframe.csv
+Process ended at: 16:01:08
+Total process time: 0:00:00
+
+

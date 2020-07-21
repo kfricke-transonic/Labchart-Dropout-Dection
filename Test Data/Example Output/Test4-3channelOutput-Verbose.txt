@@ -1,0 +1,84 @@
+Process started at: 15:58:15
+Start to Process:.\MultiFileTest\Test4-3channel.txt
+Sample Rate Interval Value = 0.0125 sec or 80.0Hz
+
+Channel Name: = Channel 18
+Total number of items in initial Frame = 13604220
+Total Record Time 170052.75sec or 47.236875hrs or 1.968203125Days 
+Number of Filtered elements = 350658
+Total Dropout Time 4383.225sec or 1.2175625hrs or 0.050731770833333335Days 
+% Dropouts = 2.5775678429193296% 
+
+Channel Name: = Channel 19
+Total number of items in initial Frame = 13604220
+Total Record Time 170052.75sec or 47.236875hrs or 1.968203125Days 
+Number of Filtered elements = 8859339
+Total Dropout Time 110741.7375sec or 30.76159375hrs or 1.2817330729166667Days 
+% Dropouts = 65.1219915585017% 
+
+Channel Name: = Channel 20
+Total number of items in initial Frame = 13604220
+Total Record Time 170052.75sec or 47.236875hrs or 1.968203125Days 
+Number of Filtered elements = 142202
+Total Dropout Time 1777.525sec or 0.49375694444444446hrs or 0.02057320601851852Days 
+% Dropouts = 1.0452785973764023% 
+Process ended at: 16:01:12
+Total process time: 0:02:57
+Process started at: 22:00:05
+Start to Process:./MultiFileTest/Test4-3channel.txt
+Sample Rate Interval Value = 0.0125 sec or 80.0Hz
+
+Channel Name: = Channel 18
+Total number of items in initial Frame = 13604220
+Total Record Time 170052.75sec or 47.236875hrs or 1.968203125Days 
+Number of Filtered elements = 350658
+Total Dropout Time 4383.225sec or 1.2175625hrs or 0.050731770833333335Days 
+% Dropouts = 2.5775678429193296% 
+
+Channel Name: = Channel 19
+Total number of items in initial Frame = 13604220
+Total Record Time 170052.75sec or 47.236875hrs or 1.968203125Days 
+Number of Filtered elements = 8859339
+Total Dropout Time 110741.7375sec or 30.76159375hrs or 1.2817330729166667Days 
+% Dropouts = 65.1219915585017% 
+
+Channel Name: = Channel 20
+Total number of items in initial Frame = 13604220
+Total Record Time 170052.75sec or 47.236875hrs or 1.968203125Days 
+Number of Filtered elements = 142202
+Total Dropout Time 1777.525sec or 0.49375694444444446hrs or 0.02057320601851852Days 
+% Dropouts = 1.0452785973764023% 
+Process ended at: 22:02:17
+Total process time: 0:02:12
+Process started at: 09:38:13
+Start to Process:.\MultiFileTest\Test4-3channel.txt
+Sample Rate Interval Value = 0.0125 sec or 80.0Hz
+
+Channel Name: = Channel 18
+Total number of items in initial Frame = 13604220
+Total Record Time 170052.75sec or 47.236875hrs or 1.968203125Days 
+Number of Filtered elements = 350658
+Total Dropout Time 4383.225sec or 1.2175625hrs or 0.050731770833333335Days 
+% Dropouts = 2.5775678429193296% 
+Start Date = 1/14/2020% 
+End Date = 1/16/2020% 
+
+Channel Name: = Channel 19
+Total number of items in initial Frame = 13604220
+Total Record Time 170052.75sec or 47.236875hrs or 1.968203125Days 
+Number of Filtered elements = 8859339
+Total Dropout Time 110741.7375sec or 30.76159375hrs or 1.2817330729166667Days 
+% Dropouts = 65.1219915585017% 
+Start Date = 1/14/2020% 
+End Date = 1/16/2020% 
+
+Channel Name: = Channel 20
+Total number of items in initial Frame = 13604220
+Total Record Time 170052.75sec or 47.236875hrs or 1.968203125Days 
+Number of Filtered elements = 142202
+Total Dropout Time 1777.525sec or 0.49375694444444446hrs or 0.02057320601851852Days 
+% Dropouts = 1.0452785973764023% 
+Start Date = 1/14/2020% 
+End Date = 1/16/2020% 
+Process ended at: 09:41:47
+Total process time: 0:03:34

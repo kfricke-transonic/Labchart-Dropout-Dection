@@ -1,0 +1,84 @@
+Process started at: 15:58:15
+Start to Process:.\MultiFileTest\Test-MultiHeader - Copy.txt
+Sample Rate Interval Value = 0.0125 sec or 80.0Hz
+
+Channel Name: = Channel 18
+Total number of items in initial Frame = 94
+Total Record Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+Number of Filtered elements = 10
+Total Dropout Time 0.125sec or 3.472222222222222e-05hrs or 1.4467592592592592e-06Days 
+% Dropouts = 10.638297872340425% 
+
+Channel Name: = Channel 19
+Total number of items in initial Frame = 94
+Total Record Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+Number of Filtered elements = 94
+Total Dropout Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+% Dropouts = 100.0% 
+
+Channel Name: = Channel 20
+Total number of items in initial Frame = 94
+Total Record Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+Number of Filtered elements = 38
+Total Dropout Time 0.47500000000000003sec or 0.00013194444444444446hrs or 5.497685185185186e-06Days 
+% Dropouts = 40.42553191489361% 
+Process ended at: 15:58:15
+Total process time: 0:00:00
+Process started at: 22:00:04
+Start to Process:./MultiFileTest/Test-MultiHeader - Copy.txt
+Sample Rate Interval Value = 0.0125 sec or 80.0Hz
+
+Channel Name: = Channel 18
+Total number of items in initial Frame = 94
+Total Record Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+Number of Filtered elements = 10
+Total Dropout Time 0.125sec or 3.472222222222222e-05hrs or 1.4467592592592592e-06Days 
+% Dropouts = 10.638297872340425% 
+
+Channel Name: = Channel 19
+Total number of items in initial Frame = 94
+Total Record Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+Number of Filtered elements = 94
+Total Dropout Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+% Dropouts = 100.0% 
+
+Channel Name: = Channel 20
+Total number of items in initial Frame = 94
+Total Record Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+Number of Filtered elements = 38
+Total Dropout Time 0.47500000000000003sec or 0.00013194444444444446hrs or 5.497685185185186e-06Days 
+% Dropouts = 40.42553191489361% 
+Process ended at: 22:00:05
+Total process time: 0:00:01
+Process started at: 09:38:12
+Start to Process:.\MultiFileTest\Test-MultiHeader - Copy.txt
+Sample Rate Interval Value = 0.0125 sec or 80.0Hz
+
+Channel Name: = Channel 18
+Total number of items in initial Frame = 94
+Total Record Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+Number of Filtered elements = 10
+Total Dropout Time 0.125sec or 3.472222222222222e-05hrs or 1.4467592592592592e-06Days 
+% Dropouts = 10.638297872340425% 
+Start Date = 1/14/2020% 
+End Date = 1/14/2020% 
+
+Channel Name: = Channel 19
+Total number of items in initial Frame = 94
+Total Record Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+Number of Filtered elements = 94
+Total Dropout Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+% Dropouts = 100.0% 
+Start Date = 1/14/2020% 
+End Date = 1/14/2020% 
+
+Channel Name: = Channel 20
+Total number of items in initial Frame = 94
+Total Record Time 1.175sec or 0.0003263888888888889hrs or 1.3599537037037038e-05Days 
+Number of Filtered elements = 38
+Total Dropout Time 0.47500000000000003sec or 0.00013194444444444446hrs or 5.497685185185186e-06Days 
+% Dropouts = 40.42553191489361% 
+Start Date = 1/14/2020% 
+End Date = 1/14/2020% 
+Process ended at: 09:38:12
+Total process time: 0:00:00
